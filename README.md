@@ -1,1 +1,2 @@
 # Energia.github.io
+Este trabajo presenta una herramienta computacional desarrollada en MATLAB que permite estimar el consumo mensual de energía eléctrica en función del uso de distintos aparatos del hogar. Además, proyecta el consumo durante los próximos 12 meses utilizando métodos numéricos, en particular la interpolación de Lagrange. La solución ofrece una forma accesible para que usuarios no expertos puedan analizar su consumo energético y tomar decisiones informadas.
